@@ -35,7 +35,6 @@ const HEROES: Hero[] = [
     <input [(ngModel)]="hero.name" placeholder="name">
   </div>
   `,
-  styles:
   styles: [`
   .selected {
     background-color: #CFD8DC !important;
